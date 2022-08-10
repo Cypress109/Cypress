@@ -105,7 +105,7 @@ int main() {
                 }
                 a = menu();
 
-                Order = fopen("cress.txt","r");
+               // Order = fopen("cress.txt","r");
 
 
             }
